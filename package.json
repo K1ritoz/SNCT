@@ -1,0 +1,12 @@
+{
+  "name": "snct",
+  "version": "1.0.0",
+  "description": "Um simples projeto com request em html e nodejs",
+  "main": "snct_server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ecstatic": "^4.1.4"
+  }
+}
